@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744517898561",
+    "firebase_url": "https://home-dairy.firebaseio.com",
+    "project_id": "home-dairy",
+    "storage_bucket": "home-dairy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744517898561:android:38517508cbe761dfd311c0",
+        "android_client_info": {
+          "package_name": "com.example.home_dairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744517898561-ol3njdovp1u0hdts4aide657vcv69nko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn6GPvqw0OP40lQDUpVmnqAhu25uN67h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744517898561-ol3njdovp1u0hdts4aide657vcv69nko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
